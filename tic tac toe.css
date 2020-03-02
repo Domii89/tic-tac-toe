@@ -1,0 +1,26 @@
+h3 {
+	text-align: center;
+	font-family: Montserrat;
+	font-weight: 300;
+	word-spacing: 0.5em;
+	letter-spacing: 0.5em;
+}
+
+table {
+	margin: auto;
+}
+
+td {
+	width: 100px;
+	height: 100px;
+}
+
+.vertical {
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+
+.horizontal {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
